@@ -1,0 +1,113 @@
+{
+  "sourceUrl": "https://kekepeptide.net/",
+  "reports": [],
+  "news": [],
+  "orders": [],
+  "facility": [
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9081.png",
+      "fallback": "assets/lab_reference.png",
+      "label": "Laboratory facility",
+      "local": "assets/source/IMG_9081.png"
+    },
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9082.png",
+      "label": "Controlled weighing process",
+      "local": "assets/source/IMG_9082.png"
+    },
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9083.png",
+      "label": "Production environment",
+      "local": "assets/source/IMG_9083.png"
+    },
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9084.png",
+      "label": "Analytical testing",
+      "local": "assets/source/IMG_9084.png"
+    },
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9085.png",
+      "label": "Quality control equipment",
+      "local": "assets/source/IMG_9085.png"
+    },
+    {
+      "url": "https://kekepeptide.net/factory/IMG_9086.jpg",
+      "label": "Manufacturing detail",
+      "local": "assets/source/IMG_9086.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "facility",
+      "title": "Facility Video",
+      "url": "https://kekepeptide.net/factory/factory-video.mp4",
+      "local": "assets/source/factory-video.mp4",
+      "poster": "assets/source/IMG_9081.png",
+      "verified": true,
+      "duration": "0:14"
+    },
+    {
+      "id": "story-1",
+      "number": 1,
+      "url": "https://kekepeptide.net/vid/1.mp4",
+      "local": "assets/source/story-1.mp4",
+      "poster": "assets/source/story-1.jpg",
+      "verified": true,
+      "duration": "0:34"
+    },
+    {
+      "id": "story-2",
+      "number": 2,
+      "url": "https://kekepeptide.net/vid/2.mp4",
+      "local": "assets/source/story-2.mp4",
+      "poster": "assets/source/story-2.jpg",
+      "verified": true,
+      "duration": "1:26"
+    },
+    {
+      "id": "story-3",
+      "number": 3,
+      "url": "https://kekepeptide.net/vid/3.mp4",
+      "local": "assets/source/story-3.mp4",
+      "poster": "assets/source/story-3.jpg",
+      "verified": true,
+      "duration": "1:14"
+    },
+    {
+      "id": "story-4",
+      "number": 4,
+      "url": "https://kekepeptide.net/vid/4.mp4",
+      "local": "assets/source/story-4.mp4",
+      "poster": "assets/source/story-4.jpg",
+      "verified": true,
+      "duration": "0:52"
+    },
+    {
+      "id": "story-5",
+      "number": 5,
+      "url": "https://kekepeptide.net/vid/5.mp4",
+      "local": "assets/source/story-5.mp4",
+      "poster": "assets/source/story-5.jpg",
+      "verified": true,
+      "duration": "0:59"
+    },
+    {
+      "id": "story-6",
+      "number": 6,
+      "url": "https://kekepeptide.net/vid/6.mp4",
+      "local": "assets/source/story-6.mp4",
+      "poster": "assets/source/story-6.jpg",
+      "verified": true,
+      "duration": "0:40"
+    },
+    {
+      "id": "brand",
+      "title": "Brand Film",
+      "url": "https://kekepeptide.net/media/kekepeptide-press-release-video-v1.mp4",
+      "local": "assets/source/brand-video-mobile.mp4",
+      "poster": "assets/hero_vials_reference.png",
+      "verified": true,
+      "duration": "1:51"
+    }
+  ]
+}

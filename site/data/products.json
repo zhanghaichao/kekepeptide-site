@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "SM5",
+    "name": "Semaglutide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "SM5",
+      "SM10",
+      "SM15",
+      "SM20",
+      "SM30"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "15mg × 10 vials",
+      "20mg × 10 vials",
+      "30mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "RT5",
+    "name": "Retatrutide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "RT5",
+      "RT10",
+      "RT15",
+      "RT20",
+      "RT30",
+      "RT40",
+      "RT50",
+      "RT60",
+      "RT80",
+      "RT100"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "15mg × 10 vials",
+      "20mg × 10 vials",
+      "30mg × 10 vials",
+      "40mg × 10 vials",
+      "50mg × 10 vials",
+      "60mg × 10 vials",
+      "80mg × 10 vials",
+      "100mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "TR5",
+    "name": "Tirzepatide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "TR5",
+      "TR10",
+      "TR15",
+      "TR20",
+      "TR30",
+      "TR40",
+      "TR50",
+      "TR60",
+      "TR80",
+      "TR100"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "15mg × 10 vials",
+      "20mg × 10 vials",
+      "30mg × 10 vials",
+      "40mg × 10 vials",
+      "50mg × 10 vials",
+      "60mg × 10 vials",
+      "80mg × 10 vials",
+      "100mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "AR50",
+    "name": "AICAR",
+    "spec": "50mg × 10 vials",
+    "skus": [
+      "AR50"
+    ],
+    "specifications": [
+      "50mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "AE1",
+    "name": "ACE-031",
+    "spec": "1mg × 10 vials",
+    "skus": [
+      "AE1"
+    ],
+    "specifications": [
+      "1mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "AP2",
+    "name": "Adipotide (FTTP)",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "AP2",
+      "AP5",
+      "FTTP2",
+      "FTTP5",
+      "FTTP10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "Adipotide",
+      "Adipotide/FTTP"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "ARA10",
+    "name": "ARA-290 (Cibinetide)",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "ARA10",
+      "ARA16"
+    ],
+    "specifications": [
+      "10mg × 10 vials",
+      "16mg × 10 vials"
+    ],
+    "aliases": [
+      "ARA290 (Cibinetide)",
+      "ARA 290"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "ADA5",
+    "name": "Adamax",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "ADA5",
+      "ADA10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MIC",
+    "name": "MIC (Lipo-C with B12)",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "MIC"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "MIC (lipo C with B12)"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MAX20",
+    "name": "Prostamax",
+    "spec": "20mg × 10 vials",
+    "skus": [
+      "MAX20"
+    ],
+    "specifications": [
+      "20mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BC2",
+    "name": "BPC-157",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "BC2",
+      "BC5",
+      "BC10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "BPC 157"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BB10",
+    "name": "BPC-157 + TB-500 Blend",
+    "spec": "BPC-157 5mg + TB-500 5mg × 10 vials",
+    "skus": [
+      "BB10",
+      "BB20"
+    ],
+    "specifications": [
+      "BPC-157 5mg + TB-500 5mg × 10 vials",
+      "BPC-157 10mg + TB-500 10mg × 10 vials"
+    ],
+    "aliases": [
+      "BPC5mg+TB5mg",
+      "BPC10mg+TB10mg"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BB70",
+    "name": "Glow70",
+    "spec": "70mg × 10 vials",
+    "skus": [
+      "BB70"
+    ],
+    "specifications": [
+      "70mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BB80",
+    "name": "KLOW80",
+    "spec": "80mg × 10 vials",
+    "skus": [
+      "BB80"
+    ],
+    "specifications": [
+      "80mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "B-12",
+    "name": "B-12",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "B-12"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "XT100",
+    "name": "Botulinum/toxin",
+    "spec": "100IU × 10 vials",
+    "skus": [
+      "XT100"
+    ],
+    "specifications": [
+      "100IU × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "B733",
+    "name": "B7-33",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "B733",
+      "B733"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BT2",
+    "name": "TB-500 (Thymosin B4 Acetate)",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "BT2",
+      "BT5",
+      "BT10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "TB500(Thymosin B4 Acetate)",
+      "TB500"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CND2",
+    "name": "CJC-1295 (without DAC)",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "CND2",
+      "CND5",
+      "CND10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "CJC 1295 (without DAC)"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CGL5",
+    "name": "Cagrilintide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "CGL5",
+      "CGL10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CS10",
+    "name": "Cagrilintide + Semaglutide Blend",
+    "spec": "Cagrilintide 5mg + Semaglutide 5mg × 10 vials",
+    "skus": [
+      "CS10"
+    ],
+    "specifications": [
+      "Cagrilintide 5mg + Semaglutide 5mg × 10 vials"
+    ],
+    "aliases": [
+      "cagrilintide 5mg+ Semaglutide5mg"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CD2",
+    "name": "CJC-1295 (with DAC)",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "CD2",
+      "CD5",
+      "CD10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "CJC 1295 with DAC",
+      "CJC 1295 (with DAC)"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CP10",
+    "name": "CJC-1295 (without DAC) + Ipamorelin",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "CP10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "CJC(no DAC) + Ipamorelin"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CU50",
+    "name": "GHK-Cu",
+    "spec": "50mg × 10 vials",
+    "skus": [
+      "CU50",
+      "CU100"
+    ],
+    "specifications": [
+      "50mg × 10 vials",
+      "100mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "AU50",
+    "name": "AHK-Cu",
+    "spec": "50mg × 10 vials",
+    "skus": [
+      "AU50",
+      "AU100"
+    ],
+    "specifications": [
+      "50mg × 10 vials",
+      "100mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CBL60",
+    "name": "Cerebrolysin",
+    "spec": "60mg × 10 vials",
+    "skus": [
+      "CBL60"
+    ],
+    "specifications": [
+      "60mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CTL20",
+    "name": "Cartalax",
+    "spec": "20mg × 10 vials",
+    "skus": [
+      "CTL20"
+    ],
+    "specifications": [
+      "20mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CA20",
+    "name": "Cardiogen",
+    "spec": "20mg × 10 vials",
+    "skus": [
+      "CA20"
+    ],
+    "specifications": [
+      "20mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "CPL2",
+    "name": "Chloramphenicol Injection",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "CPL2"
+    ],
+    "specifications": [
+      "2mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "DS2",
+    "name": "DSIP",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "DS2",
+      "DS5",
+      "DS10",
+      "DS15"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "15mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "DR5",
+    "name": "Dermorphin",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "DR5"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "DIH10",
+    "name": "Dihexa",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "DIH10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "ET10",
+    "name": "Epitalon",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "ET10",
+      "ET50"
+    ],
+    "specifications": [
+      "10mg × 10 vials",
+      "50mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "EPO",
+    "name": "EPO",
+    "spec": "5000IU × 10 vials",
+    "skus": [
+      "EPO"
+    ],
+    "specifications": [
+      "5000IU × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "FM2",
+    "name": "MGF",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "FM2"
+    ],
+    "specifications": [
+      "2mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "FR5",
+    "name": "HGH Fragment 176-191",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "FR5"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "FMP2",
+    "name": "PEG MGF",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "FMP2"
+    ],
+    "specifications": [
+      "2mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "F42",
+    "name": "FOXO4-DRI",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "F42",
+      "F410"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "G25",
+    "name": "GHRP-2 Acetate",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "G25",
+      "G210"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "G65",
+    "name": "GHRP-6 Acetate",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "G65",
+      "G610"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "GTT600",
+    "name": "Glutathione",
+    "spec": "600mg × 10 vials",
+    "skus": [
+      "GTT600",
+      "GTT1500"
+    ],
+    "specifications": [
+      "600mg × 10 vials",
+      "1500mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "GON2",
+    "name": "Gonadorelin",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "GON2",
+      "GON5",
+      "GON10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "G75",
+    "name": "HMG",
+    "spec": "75IU × 10 vials",
+    "skus": [
+      "G75"
+    ],
+    "specifications": [
+      "75IU × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "H6",
+    "name": "HGH 191AA (Somatropin)",
+    "spec": "6IU × 10 vials",
+    "skus": [
+      "H6",
+      "H8",
+      "H10",
+      "H12",
+      "H15",
+      "H24",
+      "H36",
+      "H40"
+    ],
+    "specifications": [
+      "6IU × 10 vials",
+      "8IU × 10 vials",
+      "10IU × 10 vials",
+      "12IU × 10 vials",
+      "15IU × 10 vials",
+      "24IU × 10 vials",
+      "36IU × 10 vials",
+      "40IU × 10 vials"
+    ],
+    "aliases": [
+      "HGH 191AA(Somatropin)"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "HCG",
+    "name": "HCG",
+    "spec": "1000IU × 10 vials",
+    "skus": [
+      "HCG",
+      "HCG",
+      "HCG",
+      "HCG"
+    ],
+    "specifications": [
+      "1000IU × 10 vials",
+      "2000IU × 10 vials",
+      "5000IU × 10 vials",
+      "10000IU × 10 vials"
+    ],
+    "aliases": [
+      "HCG1000(G1K)",
+      "HCG2000(G2K)",
+      "HCG5000(G5K)",
+      "HCG10000(G10K)"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "HX2",
+    "name": "Hexarelin Acetate",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "HX2",
+      "HX5"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "IP2",
+    "name": "Ipamorelin",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "IP2",
+      "IP5",
+      "IP10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "IG01",
+    "name": "IGF-1 LR3",
+    "spec": "0.1mg × 10 vials",
+    "skus": [
+      "IG01",
+      "IG1"
+    ],
+    "specifications": [
+      "0.1mg × 10 vials",
+      "1mg × 10 vials"
+    ],
+    "aliases": [
+      "IGF-1LR3"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "IGD",
+    "name": "IGF-DES",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "IGD"
+    ],
+    "specifications": [
+      "2mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "KS5",
+    "name": "Kisspeptin-10",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "KS5",
+      "KS10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "Kiss Peptin-10"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "KPV5",
+    "name": "KPV",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "KPV5",
+      "KPV10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "LC216",
+    "name": "Lipo-C",
+    "spec": "10ml × 10 vials",
+    "skus": [
+      "LC216"
+    ],
+    "specifications": [
+      "10ml × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "LB",
+    "name": "Lemon Bottle",
+    "spec": "10ml × 10 vials",
+    "skus": [
+      "LB"
+    ],
+    "specifications": [
+      "10ml × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "LC600",
+    "name": "L-Carnitine",
+    "spec": "600mg / 10ml × 10 vials",
+    "skus": [
+      "LC600",
+      "LC1200"
+    ],
+    "specifications": [
+      "600mg / 10ml × 10 vials",
+      "1200mg / 10ml × 10 vials"
+    ],
+    "aliases": [
+      "L-carnitine 600mg",
+      "L-carnitine 1200mg"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MT1",
+    "name": "Melanotan I",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "MT1",
+      "MT2"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "ML10",
+    "name": "Melanotan II",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "ML10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MS10",
+    "name": "MOTS-c (Human)",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "MS10",
+      "MS15",
+      "MS20",
+      "MS40"
+    ],
+    "specifications": [
+      "10mg × 10 vials",
+      "15mg × 10 vials",
+      "20mg × 10 vials",
+      "40mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MK75",
+    "name": "MK-677",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "MK75"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [
+      "MK677"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MT10",
+    "name": "Melatonin",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "MT10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "MDT5",
+    "name": "Mazdutide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "MDT5",
+      "MDT10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "NJ100",
+    "name": "NAD+",
+    "spec": "100mg × 10 vials",
+    "skus": [
+      "NJ100",
+      "NJ300",
+      "NJ500",
+      "NJ1000"
+    ],
+    "specifications": [
+      "100mg × 10 vials",
+      "300mg × 10 vials",
+      "500mg × 10 vials",
+      "1000mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "NP8 10",
+    "name": "Snap-8",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "NP8 10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "OT2",
+    "name": "Oxytocin Acetate",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "OT2",
+      "OT5",
+      "OT10"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "P41",
+    "name": "PT-141",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "P41"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "PIN10",
+    "name": "Pinealon",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "PIN10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "PNC-27",
+    "name": "PNC-27",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "PNC-27"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "PT10",
+    "name": "PT-10",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "PT10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "PT20",
+    "name": "PT-20",
+    "spec": "20mg × 10 vials",
+    "skus": [
+      "PT20"
+    ],
+    "specifications": [
+      "20mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "SMO5",
+    "name": "Sermorelin",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "SMO5",
+      "SMO10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "SMO5-70",
+    "name": "Sermorelin Acetate",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "SMO5",
+      "SMO10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "SermorelinAcetate"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "SK5",
+    "name": "Selank",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "SK5",
+      "SK10",
+      "SK11"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "11mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "SUR5",
+    "name": "Survodutide",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "SUR5",
+      "SUR10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "TA5",
+    "name": "Thymosin Alpha-1",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "TA5",
+      "TA10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [
+      "Thymosin alpha 1"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "TSM2",
+    "name": "Tesamorelin",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "TSM2",
+      "TSM5",
+      "TSM10",
+      "TSM20"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "20mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "TY10",
+    "name": "Thymalin",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "TY10"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "XA5",
+    "name": "Semax",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "XA5",
+      "XA10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "Skx20",
+    "name": "Selank + Semax Blend",
+    "spec": "20mg (Selank 10mg + Semax 10mg) × 10 vials",
+    "skus": [
+      "Skx20",
+      "Skx40"
+    ],
+    "specifications": [
+      "20mg (Selank 10mg + Semax 10mg) × 10 vials",
+      "40mg (Selank 20mg + Semax 20mg) × 10 vials"
+    ],
+    "aliases": [
+      "Selank + Semax"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "2AD",
+    "name": "AOD9604",
+    "spec": "2mg × 10 vials",
+    "skus": [
+      "2AD",
+      "5AD",
+      "10AD"
+    ],
+    "specifications": [
+      "2mg × 10 vials",
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "5AM",
+    "name": "5-Amino-1MQ",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "5AM",
+      "10AM",
+      "50AM"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials",
+      "50mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "375",
+    "name": "LL-37",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "375"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [
+      "LL37"
+    ],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "2S10",
+    "name": "SS-31",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "2S10",
+      "2S50"
+    ],
+    "specifications": [
+      "10mg × 10 vials",
+      "50mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "VIP5",
+    "name": "VIP",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "VIP5",
+      "VP10"
+    ],
+    "specifications": [
+      "5mg × 10 vials",
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "Vesugen",
+    "name": "Vesugen",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "Vesugen"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "322",
+    "name": "slupp-322",
+    "spec": "5mg × 10 vials",
+    "skus": [
+      "322"
+    ],
+    "specifications": [
+      "5mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "FN1",
+    "name": "Fst344",
+    "spec": "1mg × 10 vials",
+    "skus": [
+      "FN1"
+    ],
+    "specifications": [
+      "1mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "Parabolan",
+    "name": "Trenbolone cyclohexylmethyl carbonate",
+    "spec": "10mg × 10 vials",
+    "skus": [
+      "Parabolan"
+    ],
+    "specifications": [
+      "10mg × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  },
+  {
+    "id": "BAC3",
+    "name": "BAC Water",
+    "spec": "3ml × 10 vials",
+    "skus": [
+      "BAC3",
+      "BAC10"
+    ],
+    "specifications": [
+      "3ml × 10 vials",
+      "10ml × 10 vials"
+    ],
+    "aliases": [],
+    "image": "assets/source/ten-vial-front-master-v2.png",
+    "source_url": "https://kekepeptide.net/static/data.js",
+    "verified_on": "2026-10-11",
+    "image_angle": "assets/source/ten-vial-angle-master-v2.png",
+    "image_kind": "packaging-illustration"
+  }
+]
