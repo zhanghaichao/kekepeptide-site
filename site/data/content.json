@@ -1,6 +1,1723 @@
 {
   "sourceUrl": "https://kekepeptide.net/",
-  "reports": [],
+  "reports": [
+    {
+      "id": "coa-001",
+      "product": "5-Amino-1MQ",
+      "spec": "10mg",
+      "product_ids": [
+        "5AM"
+      ],
+      "skus": [
+        "10AM"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/5-amino-1mq/5-amino-1mq-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-002",
+      "product": "5-Amino-1MQ",
+      "spec": "50mg",
+      "product_ids": [
+        "5AM"
+      ],
+      "skus": [
+        "50AM"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/5-amino-1mq/5-amino-1mq-50-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-003",
+      "product": "AHK-Cu",
+      "spec": "100mg",
+      "product_ids": [
+        "AU50"
+      ],
+      "skus": [
+        "AU100"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ahk-cu/ahk-cu-100-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-004",
+      "product": "AHK-Cu",
+      "spec": "Analytical report",
+      "product_ids": [
+        "AU50"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ahk-cu/ahk-cu-analytical-report-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-005",
+      "product": "AOD9604",
+      "spec": "5mg",
+      "product_ids": [
+        "2AD"
+      ],
+      "skus": [
+        "5AD"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/aod-9604/aod-9604-5-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-006",
+      "product": "AOD9604",
+      "spec": "5mg",
+      "product_ids": [
+        "2AD"
+      ],
+      "skus": [
+        "5AD"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/aod-9604/aod-9604-5-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-007",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-008",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-02.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-009",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-010",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-04.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-011",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-05.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-012",
+      "product": "BPC-157",
+      "spec": "10mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-10-mg-06.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-013",
+      "product": "BPC-157",
+      "spec": "20mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-20-mg-07.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-014",
+      "product": "BPC-157",
+      "spec": "5mg",
+      "product_ids": [
+        "BC2"
+      ],
+      "skus": [
+        "BC5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157/bpc-157-5-mg-08.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-015",
+      "product": "BPC-157 + TB-500",
+      "spec": "10mg + 10mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/bpc-157-tb-500/bpc-157-tb-500-10mg-10mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-016",
+      "product": "BPC-157 + TB-500 Blend",
+      "spec": "10mg",
+      "product_ids": [
+        "BB10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157-plus-tb-500/bpc-157-plus-tb-500-10-mg-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-017",
+      "product": "BPC-157 + TB-500 Blend",
+      "spec": "10mg",
+      "product_ids": [
+        "BB10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157-plus-tb-500/bpc-157-plus-tb-500-10-mg-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-018",
+      "product": "BPC-157 + TB-500 Blend",
+      "spec": "10mg",
+      "product_ids": [
+        "BB10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/bpc-157-plus-tb-500/bpc-157-plus-tb-500-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-019",
+      "product": "Cagrilintide",
+      "spec": "5mg",
+      "product_ids": [
+        "CGL5"
+      ],
+      "skus": [
+        "CGL5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/cagrilintide/cagrilintide-5-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-020",
+      "product": "CJC-1295 (without DAC) + Ipamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "CP10"
+      ],
+      "skus": [
+        "CP10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/cjc-1295-plus-ipamorelin/cjc-1295-plus-ipamorelin-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-021",
+      "product": "CJC-1295 (without DAC) + Ipamorelin",
+      "spec": "5mg",
+      "product_ids": [
+        "CP10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/cjc-1295-plus-ipamorelin/cjc-1295-plus-ipamorelin-5-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-022",
+      "product": "CJC-1295 (without DAC) + Ipamorelin",
+      "spec": "5mg",
+      "product_ids": [
+        "CP10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/cjc-1295-plus-ipamorelin/cjc-1295-plus-ipamorelin-5-mg-03.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-023",
+      "product": "DSIP",
+      "spec": "5mg",
+      "product_ids": [
+        "DS2"
+      ],
+      "skus": [
+        "DS5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/dsip/dsip-5-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-024",
+      "product": "Epitalon",
+      "spec": "10mg",
+      "product_ids": [
+        "ET10"
+      ],
+      "skus": [
+        "ET10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/epithalon/epithalon-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-025",
+      "product": "GHK-Cu",
+      "spec": "100mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU100"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-100-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-026",
+      "product": "GHK-Cu",
+      "spec": "100mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU100"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-100-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-027",
+      "product": "GHK-Cu",
+      "spec": "100mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU100"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-100-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-028",
+      "product": "GHK-Cu",
+      "spec": "50mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU50"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-50-mg-04.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-029",
+      "product": "GHK-Cu",
+      "spec": "50mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU50"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-50-mg-05.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-030",
+      "product": "GHK-Cu",
+      "spec": "Raw material report",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ghk-cu/ghk-cu-raw-material-06.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-031",
+      "product": "GHK-Cu",
+      "spec": "50mg",
+      "product_ids": [
+        "CU50"
+      ],
+      "skus": [
+        "CU50"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/ghk-cu/ghk-cu-50mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-032",
+      "product": "GLOW",
+      "spec": "70mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/glow/glow-70mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-033",
+      "product": "Glow Blend",
+      "spec": "50mg + 10mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/glow-blend/glow-blend-50-mg-plus-10-mg-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-034",
+      "product": "Glow Blend",
+      "spec": "Analytical report",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/glow-blend/glow-blend-analytical-report-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-035",
+      "product": "Glow Blend",
+      "spec": "Blend report",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/glow-blend/glow-blend-blend-report-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-036",
+      "product": "GLP-2T",
+      "spec": "Analytical report",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/glp-2t/glp-2t-analytical-report-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-037",
+      "product": "GLP-3RT Blend",
+      "spec": "30mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/glp-3rt-blend/glp-3rt-blend-30-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-038",
+      "product": "Glutathione",
+      "spec": "1500mg",
+      "product_ids": [
+        "GTT600"
+      ],
+      "skus": [
+        "GTT1500"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/l-glutathione/l-glutathione-1500-mg-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-039",
+      "product": "HCG",
+      "spec": "10,000 IU",
+      "product_ids": [
+        "HCG"
+      ],
+      "skus": [
+        "HCG"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/hcg/hcg-10-000-iu-01.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-040",
+      "product": "HCG",
+      "spec": "5000 IU",
+      "product_ids": [
+        "HCG"
+      ],
+      "skus": [
+        "HCG"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/hcg/hcg-5000-iu-02.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-041",
+      "product": "HGH 191AA (Somatropin)",
+      "spec": "15 IU",
+      "product_ids": [
+        "H6"
+      ],
+      "skus": [
+        "H15"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/hgh-somatropin/hgh-somatropin-15-iu-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-042",
+      "product": "HGH Fragment 176-191",
+      "spec": "Analytical report",
+      "product_ids": [
+        "FR5"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/hgh-fragment-176-191/hgh-fragment-176-191-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-043",
+      "product": "IGF-1 LR3",
+      "spec": "1mg",
+      "product_ids": [
+        "IG01"
+      ],
+      "skus": [
+        "IG1"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/igf-lr3/igf-lr3-1-mg-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-044",
+      "product": "Ipamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "IP2"
+      ],
+      "skus": [
+        "IP10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ipamorelin/ipamorelin-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-045",
+      "product": "Ipamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "IP2"
+      ],
+      "skus": [
+        "IP10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ipamorelin/ipamorelin-10-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-046",
+      "product": "KLOW",
+      "spec": "80mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/klow/klow-80mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-047",
+      "product": "KLOW80",
+      "spec": "80mg",
+      "product_ids": [
+        "BB80"
+      ],
+      "skus": [
+        "BB80"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/klow/klow-80-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-048",
+      "product": "KLOW80",
+      "spec": "80mg",
+      "product_ids": [
+        "BB80"
+      ],
+      "skus": [
+        "BB80"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/klow/klow-80-mg-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-049",
+      "product": "KLOW80",
+      "spec": "80mg",
+      "product_ids": [
+        "BB80"
+      ],
+      "skus": [
+        "BB80"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/klow/klow-80-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-050",
+      "product": "KPV",
+      "spec": "10mg",
+      "product_ids": [
+        "KPV5"
+      ],
+      "skus": [
+        "KPV10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/kpv/kpv-10-mg-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-051",
+      "product": "KPV",
+      "spec": "10mg",
+      "product_ids": [
+        "KPV5"
+      ],
+      "skus": [
+        "KPV10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/kpv/kpv-10-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-052",
+      "product": "Melanotan II",
+      "spec": "Analytical report",
+      "product_ids": [
+        "ML10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/melanotan-2/melanotan-2-analytical-report-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-053",
+      "product": "Melanotan II",
+      "spec": "10mg",
+      "product_ids": [
+        "ML10"
+      ],
+      "skus": [
+        "ML10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/melanotan-ii/melanotan-ii-10mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-054",
+      "product": "MOTS-c (Human)",
+      "spec": "10mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-10-mg-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-055",
+      "product": "MOTS-c (Human)",
+      "spec": "10mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-10-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-056",
+      "product": "MOTS-c (Human)",
+      "spec": "10mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-057",
+      "product": "MOTS-c (Human)",
+      "spec": "10mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-10-mg-04.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-058",
+      "product": "MOTS-c (Human)",
+      "spec": "10mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-10-mg-05.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-059",
+      "product": "MOTS-c (Human)",
+      "spec": "40mg",
+      "product_ids": [
+        "MS10"
+      ],
+      "skus": [
+        "MS40"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/mots-c/mots-c-40-mg-06.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-060",
+      "product": "NAD+",
+      "spec": "500mg",
+      "product_ids": [
+        "NJ100"
+      ],
+      "skus": [
+        "NJ500"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/nad-plus/nad-plus-500-mg-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-061",
+      "product": "NAD+",
+      "spec": "500mg",
+      "product_ids": [
+        "NJ100"
+      ],
+      "skus": [
+        "NJ500"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/nad-plus/nad-plus-500-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-062",
+      "product": "NAD+",
+      "spec": "500mg",
+      "product_ids": [
+        "NJ100"
+      ],
+      "skus": [
+        "NJ500"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/nad-plus/nad-plus-500-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-063",
+      "product": "NAD+",
+      "spec": "1000mg",
+      "product_ids": [
+        "NJ100"
+      ],
+      "skus": [
+        "NJ1000"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/nad-plus/nad-plus-1000mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-064",
+      "product": "NAD+",
+      "spec": "500mg",
+      "product_ids": [
+        "NJ100"
+      ],
+      "skus": [
+        "NJ500"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/nad-plus/nad-plus-500mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-065",
+      "product": "PT-141",
+      "spec": "10mg",
+      "product_ids": [
+        "P41"
+      ],
+      "skus": [
+        "P41"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/pt-141/pt-141-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-066",
+      "product": "PT-141",
+      "spec": "10mg",
+      "product_ids": [
+        "P41"
+      ],
+      "skus": [
+        "P41"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/pt-141/pt-141-10-mg-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-067",
+      "product": "PT-141",
+      "spec": "Analytical report",
+      "product_ids": [
+        "P41"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/pt-141/pt-141-analytical-report-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-068",
+      "product": "Retatrutide",
+      "spec": "10mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-10-mg-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-069",
+      "product": "Retatrutide",
+      "spec": "10mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-10-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-070",
+      "product": "Retatrutide",
+      "spec": "10mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-071",
+      "product": "Retatrutide",
+      "spec": "10mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-10-mg-04.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-072",
+      "product": "Retatrutide",
+      "spec": "15mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT15"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-15-mg-05.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-073",
+      "product": "Retatrutide",
+      "spec": "20mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT20"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-20-mg-06.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-074",
+      "product": "Retatrutide",
+      "spec": "20mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT20"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-20-mg-07.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-075",
+      "product": "Retatrutide",
+      "spec": "30mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-30-mg-08.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-076",
+      "product": "Retatrutide",
+      "spec": "5mg",
+      "product_ids": [
+        "RT5"
+      ],
+      "skus": [
+        "RT5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/retatrutide/retatrutide-5-mg-09.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-077",
+      "product": "Selank",
+      "spec": "10mg",
+      "product_ids": [
+        "SK5"
+      ],
+      "skus": [
+        "SK10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/selank/selank-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-078",
+      "product": "Selank",
+      "spec": "10mg",
+      "product_ids": [
+        "SK5"
+      ],
+      "skus": [
+        "SK10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/selank/selank-10-mg-02.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-079",
+      "product": "Selank",
+      "spec": "10mg",
+      "product_ids": [
+        "SK5"
+      ],
+      "skus": [
+        "SK10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/selank/selank-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-080",
+      "product": "Semaglutide",
+      "spec": "10mg",
+      "product_ids": [
+        "SM5"
+      ],
+      "skus": [
+        "SM10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semaglutide/semaglutide-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-081",
+      "product": "Semaglutide",
+      "spec": "30mg",
+      "product_ids": [
+        "SM5"
+      ],
+      "skus": [
+        "SM30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semaglutide/semaglutide-30-mg-02.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-082",
+      "product": "Semaglutide",
+      "spec": "5mg",
+      "product_ids": [
+        "SM5"
+      ],
+      "skus": [
+        "SM5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semaglutide/semaglutide-5-mg-03.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-083",
+      "product": "Semaglutide",
+      "spec": "5mg",
+      "product_ids": [
+        "SM5"
+      ],
+      "skus": [
+        "SM5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semaglutide/semaglutide-5-mg-04.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-084",
+      "product": "Semax",
+      "spec": "10mg",
+      "product_ids": [
+        "XA5"
+      ],
+      "skus": [
+        "XA10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semax/semax-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-085",
+      "product": "Semax",
+      "spec": "10mg",
+      "product_ids": [
+        "XA5"
+      ],
+      "skus": [
+        "XA10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semax/semax-10-mg-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-086",
+      "product": "Semax",
+      "spec": "10mg",
+      "product_ids": [
+        "XA5"
+      ],
+      "skus": [
+        "XA10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/semax/semax-10-mg-03.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-087",
+      "product": "Sermorelin",
+      "spec": "5mg",
+      "product_ids": [
+        "SMO5"
+      ],
+      "skus": [
+        "SMO5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/sermorelin/sermorelin-5-mg-01.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-088",
+      "product": "Sermorelin",
+      "spec": "5mg",
+      "product_ids": [
+        "SMO5"
+      ],
+      "skus": [
+        "SMO5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/sermorelin/sermorelin-5-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-089",
+      "product": "Snap-8",
+      "spec": "100mg",
+      "product_ids": [
+        "NP8 10"
+      ],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/snap-8/snap-8-100-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-090",
+      "product": "SS-31",
+      "spec": "10mg",
+      "product_ids": [
+        "2S10"
+      ],
+      "skus": [
+        "2S10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ss-31/ss-31-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-091",
+      "product": "SS-31",
+      "spec": "50mg",
+      "product_ids": [
+        "2S10"
+      ],
+      "skus": [
+        "2S50"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/ss-31/ss-31-50-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-092",
+      "product": "TB-500 (Thymosin B4 Acetate)",
+      "spec": "10mg",
+      "product_ids": [
+        "BT2"
+      ],
+      "skus": [
+        "BT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tb-500/tb-500-10-mg-01.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-093",
+      "product": "TB-500 (Thymosin B4 Acetate)",
+      "spec": "10mg",
+      "product_ids": [
+        "BT2"
+      ],
+      "skus": [
+        "BT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tb-500/tb-500-10-mg-02.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-094",
+      "product": "TB-500 (Thymosin B4 Acetate)",
+      "spec": "10mg",
+      "product_ids": [
+        "BT2"
+      ],
+      "skus": [
+        "BT10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/thymosin-beta-4/thymosin-beta-4-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-095",
+      "product": "Tesamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "TSM2"
+      ],
+      "skus": [
+        "TSM10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tesamorelin/tesamorelin-10-mg-01.jpeg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-096",
+      "product": "Tesamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "TSM2"
+      ],
+      "skus": [
+        "TSM10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tesamorelin/tesamorelin-10-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-097",
+      "product": "Tesamorelin",
+      "spec": "10mg",
+      "product_ids": [
+        "TSM2"
+      ],
+      "skus": [
+        "TSM10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tesamorelin/tesamorelin-10-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-098",
+      "product": "Tesamorelin + Ipamorelin",
+      "spec": "11mg + 6mg",
+      "product_ids": [],
+      "skus": [],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/tesamorelin-ipamorelin/tesamorelin-ipamorelin-11mg-6mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-099",
+      "product": "Thymosin Alpha-1",
+      "spec": "10mg",
+      "product_ids": [
+        "TA5"
+      ],
+      "skus": [
+        "TA10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/thymosin-alpha-1/thymosin-alpha-1-10-mg-01.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-100",
+      "product": "Thymosin Alpha-1",
+      "spec": "10mg",
+      "product_ids": [
+        "TA5"
+      ],
+      "skus": [
+        "TA10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/thymosin-alpha-1/thymosin-alpha-1-10-mg-02.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-101",
+      "product": "Thymosin Alpha-1",
+      "spec": "5mg",
+      "product_ids": [
+        "TA5"
+      ],
+      "skus": [
+        "TA5"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/thymosin-alpha-1/thymosin-alpha-1-5-mg-03.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-102",
+      "product": "Tirzepatide",
+      "spec": "10mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR10"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-10-mg-01.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-103",
+      "product": "Tirzepatide",
+      "spec": "15mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR15"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-15-mg-02.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-104",
+      "product": "Tirzepatide",
+      "spec": "30mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-30-mg-03.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-105",
+      "product": "Tirzepatide",
+      "spec": "30mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-30-mg-04.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-106",
+      "product": "Tirzepatide",
+      "spec": "30mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-30-mg-05.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-107",
+      "product": "Tirzepatide",
+      "spec": "30mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR30"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-30-mg-06.jpg",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-108",
+      "product": "Tirzepatide",
+      "spec": "60mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR60"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-60-mg-07.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-109",
+      "product": "Tirzepatide",
+      "spec": "60mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR60"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-07-29/tirzepatide/tirzepatide-60-mg-08.png",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-110",
+      "product": "Tirzepatide",
+      "spec": "100mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR100"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/tirzepatide/tirzepatide-100mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    },
+    {
+      "id": "coa-111",
+      "product": "Tirzepatide",
+      "spec": "60mg",
+      "product_ids": [
+        "TR5"
+      ],
+      "skus": [
+        "TR60"
+      ],
+      "batch": null,
+      "kind": "reference",
+      "url": "https://kekepeptide.net/coa/reports/2026-08-01/tirzepatide/tirzepatide-60mg-preview.webp",
+      "verified": true,
+      "verified_on": "2026-10-12"
+    }
+  ],
   "news": [],
   "orders": [],
   "facility": [
