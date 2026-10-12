@@ -69,7 +69,7 @@ window.I18n = (() => {
   }
   async function init() {
     try {
-      const response = await fetch('data/translations.json?v=5', {cache:'no-cache'});
+      const response = await fetch('data/translations.json?v=6', {cache:'no-cache'});
       if (!response.ok) throw new Error('Translation data unavailable');
       dictionaries = await response.json();
     } catch {
